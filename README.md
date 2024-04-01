@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TejasAsawale93
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning HTML/CSS,Java & CSS
+- 👀 I’m interested in Web Developer and Front-End Developer
+- 🌱 I’m currently learning Bootstrap,MongoDB and DOM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
